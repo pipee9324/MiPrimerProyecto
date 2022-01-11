@@ -1,10 +1,7 @@
 import modelos.BancoPreguntas
 import modelos.Pregunta
 
-// Declaramos los valores de nuestras respuestas
 var PUNTAJE = 0
-const val RESPUESTA_NEGATIVA = "❌"
-
 
 fun main() {
     // Declarar el mensaje de entrada del programa
